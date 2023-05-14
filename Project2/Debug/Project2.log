@@ -1,0 +1,11 @@
+﻿  CarSettingInfo.cpp
+  Display.cpp
+  General.cpp
+C:\Users\PC\source\repos\Project2\Project2\General.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Project2\Project2\General.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\PC\source\repos\Project2\Project2\main.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+  Setting.cpp
+  Sound.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\PC\source\repos\Project2\Debug\Project2.exe
